@@ -1,6 +1,6 @@
 ### Ibrahima Gueye
 
-Étudiant en Licence 3 Réseaux et Télécommunications à l'Université Assane Seck de Ziguinchor (Sénégal).
+Étudiant en Licence 3 ingénierie informatique spécialisé en Réseaux et Télécommunications à l'Université Assane Seck de Ziguinchor (Sénégal).
 Je me forme à la sécurité défensive et à l'analyse des menaces : investigation numérique, analyse de trafic, détection.
 
 **En ce moment**
