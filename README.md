@@ -1,16 +1,22 @@
-## Hi there 👋
+### Ibrahima Gueye
 
-<!--
-**Gueye-AI/Gueye-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Licence 3 Réseaux et Télécommunications à l'Université Assane Seck de Ziguinchor (Sénégal).
+Je me forme à la sécurité défensive et à l'analyse des menaces : investigation numérique, analyse de trafic, détection.
 
-Here are some ideas to get you started:
+**En ce moment**
+- Je consolide mes bases : Linux, analyse de captures réseau, scripts Python pour l'analyse de logs.
+- Je monte un lab Active Directory pour comprendre les attaques sur les réseaux d'entreprise et leur détection.
+- J'anime une formation d'introduction à la cybersécurité (triade CIA, ISO 27001, NIST CSF, MITRE ATT&CK).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Outils que j'utilise**
+
+`Linux` `Bash` `Python` `Docker` `Wireshark` `Nmap` `TCP/IP` `DNS`
+
+**Travaux à suivre**
+- Analyses de captures réseau malveillantes
+- Scripts d'analyse de logs et de détection
+- Comptes rendus de machines retirées (Hack The Box)
+
+Toutes mes pratiques offensives se font dans mon propre lab ou sur des plateformes d'entraînement autorisées.
+
+Ziguinchor, Sénégal
